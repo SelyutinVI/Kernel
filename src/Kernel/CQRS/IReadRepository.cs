@@ -1,4 +1,4 @@
-﻿using template.Kernel;
+﻿using RealBlank.Kernel;
 
 namespace RealBlank.Kernel.CQRS;
 

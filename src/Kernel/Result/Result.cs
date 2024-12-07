@@ -1,4 +1,4 @@
-﻿namespace template.Kernel.Result;
+﻿namespace RealBlank.Kernel.Result;
 
 public class Result<T, E>
 {

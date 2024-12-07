@@ -1,3 +1,3 @@
-﻿namespace template.Kernel;
+﻿namespace RealBlank.Kernel;
 
 public interface IAggregate;
